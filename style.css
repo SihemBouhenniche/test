@@ -1,8 +1,6 @@
 body {
 	font-family: 'Ubuntu', sans-serif;
 }
-h1 {
-	text-align: center;
-	padding: 50px;
+.titre {
 	background-color: #004B8D; 
 }
